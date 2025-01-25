@@ -168,9 +168,11 @@ Initialize a Git repository.
 
 Set up the Next.js project using npx. √
 
-Set up the backend project with Express.js.
+Set up the backend project with Express.js. √
 
-Configure PostgreSQL database with schemas and indexing strategies.
+Configure PostgreSQL database with schemas using Sequelize. √
+
+Configure indexing strategies for PostgreSQL database.
 
 Phase 2: Frontend Development
 
@@ -244,7 +246,7 @@ Configure environment variables for API keys and database credentials. Ensure se
 
 Perform final testing in the production environment.
 
-6. Additional Enhancements
+1. Additional Enhancements
 
 Notifications: Implement email or in-app notifications for budgeting alerts.
 
